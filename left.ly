@@ -1,11 +1,11 @@
 %%%%%%%%%%%%%%%%% PIANO LEFT HAND %%%%%%%%%%%%%%%%%
 \new Staff = "left"
 {
-	\clef bass
-	\key a \major
-	\override Staff.TimeSignature #'style = #'()
-	\time 4/4
-	\set Staff.pedalSustainStyle = #'mixed
+    \clef bass
+    \key a \major
+    \override Staff.TimeSignature #'style = #'()
+    \time 4/4
+    \set Staff.pedalSustainStyle = #'mixed
 
     \partial 8*4 r2
     e8 gis b2.

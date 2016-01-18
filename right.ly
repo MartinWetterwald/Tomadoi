@@ -1,10 +1,10 @@
 %%%%%%%%%%%%%%%%% PIANO RIGHT HAND %%%%%%%%%%%%%%%%%
 \new Staff = "right"
 {
-	\clef treble
-	\key a \major
-	\override Staff.TimeSignature #'style = #'()
-	\time 4/4
+    \clef treble
+    \key a \major
+    \override Staff.TimeSignature #'style = #'()
+    \time 4/4
 
     \partial 8*4 fis'8 a' cis'' a'
     b'4. gis'4 e' fis'8~
