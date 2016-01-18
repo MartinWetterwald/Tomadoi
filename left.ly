@@ -15,6 +15,13 @@
     cis8 gis b2.
     d8 a cis'2.
     e8 a d'4 <gis b>2
-    a8 cis' e'4 gis8 b e'4
-    fis8 a cis'2.
+    \repeat volta 2
+    {
+        a8 cis' e'4 gis8 b e'4
+    }
+    \alternative
+    {
+        { fis8 a cis'2. }
+        { fis8 a cis'2. }
+    }
 }

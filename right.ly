@@ -17,6 +17,10 @@
     \repeat volta 2
     {
         cis''4. a'16 cis'' b'4. a'16 b'
-        cis''8 b' a' gis' gis' a'~ a' a'16 b'
+    }
+    \alternative
+    {
+      { cis''8 b' a' gis' gis' a'~ a' a'16 b' }
+      { cis''8 b' a' gis' gis' a'~ a' a'16 cis'' }
     }
 }
