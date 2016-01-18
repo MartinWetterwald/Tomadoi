@@ -22,4 +22,5 @@
 	\include "right.ly"
 	\include "left.ly"
 >>
+%\midi{}
 }
