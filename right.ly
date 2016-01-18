@@ -14,6 +14,9 @@
     e''4 e''8 b'4 gis'4 e'8
     gis' fis'~ fis'2.
     r2 e'4. a'16 b'
-    cis''4. a'16 cis'' b'4. a'16 b'
-    cis''8 b' a' gis' gis' a'~ a' a'16 cis''
+    \repeat volta 2
+    {
+        cis''4. a'16 cis'' b'4. a'16 b'
+        cis''8 b' a' gis' gis' a'~ a' a'16 b'
+    }
 }
