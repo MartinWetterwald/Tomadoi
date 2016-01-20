@@ -1,7 +1,8 @@
 \version "2.12.3"
 \header
 {
-    title = "戸惑い (Tomadoi)"
+    title = "戸惑い"
+    subtitle = "Tomadoi"
     composer = "若草恵 (Kei Wakakusa)"
     arranger = "Martin Wetterwald"
     tagline = ""
