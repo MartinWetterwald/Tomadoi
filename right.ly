@@ -23,4 +23,6 @@
       { cis''8 b' a' gis' gis' a'~ a' a'16 b' }
       { cis''8 b' a' gis' gis' a'~ a' a'16 cis'' }
     }
+    e''4. e''8 d''4. cis''16 d''
+    cis''8 cis'' cis'' cis''16 a''~ a''2
 }

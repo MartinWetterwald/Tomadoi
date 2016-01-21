@@ -24,4 +24,7 @@
         { fis8 a cis'2. }
         { fis8 a cis'2. }
     }
+
+    a8 cis' e'4 e8 gis d'4
+    eis8 gis cis'4 fis8 cis' e a
 }
