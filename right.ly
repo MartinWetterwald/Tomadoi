@@ -25,4 +25,8 @@
     }
     e''4. e''8 d''4. cis''16 d''
     cis''8 cis'' cis'' cis''16 a''~ a''2
+    r4 a'8 a' a' a' a' a'
+    r4 a'8 a' d'' cis'' b' a'
+    d' b' b' b'16 b'16 ~ b'8 a' b' d'' cis''2.. cis''8
+    f''1
 }
